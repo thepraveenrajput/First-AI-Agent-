@@ -15,4 +15,4 @@ Also download dependencies by these commands :
 
 3.npm i dotenv
 
-4.npm i readlinesyc
+4.npm i readlinesync
