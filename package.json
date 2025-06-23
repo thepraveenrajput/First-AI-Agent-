@@ -1,0 +1,17 @@
+{
+  "name": "first-ai-agent",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^1.6.0",
+    "dotenv": "^16.5.0",
+    "readline-sync": "^1.4.10"
+  }
+}
